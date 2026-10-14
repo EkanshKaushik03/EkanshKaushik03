@@ -1,66 +1,9 @@
-# Hey, I'm Ekansh Kaushik
+## Hey, I'm Ekansh Kaushik!
 
-**Full-Stack Developer | Open Source Contributor**
+I've been into computers ever since I was five years old. It started with playing games, but over time, my curiosity grew into wanting to understand why things worked the way they did. I'd tinker with the options and devices I was given, sometimes causing a bit of trouble along the way, but every experiment taught me something new about the technology around me.
 
-I enjoy exploring existing codebases, solving problems, and building reliable applications. Currently focused on backend development, open-source contributions, and understanding how software works under the hood.
+I started learning C at thirteen and explored other technologies along the way. However, it wasn't until I began studying computer science during my bachelor's that I really immersed myself in it. I participated in countless hackathons, building fun projects with teams that didn't always know what we were doing, but were always excited to learn, experiment, and figure things out together.
 
----
+Lately, I've been spending more time contributing to open source. I've always enjoyed building things that serve a purpose, whether that's solving a problem or simply making someone's life a little more convenient. Knowing that something I've worked on can be used by anyone, anywhere, is a feeling that keeps me coming back.
 
-### Tech Stack
-
-**Languages:** JavaScript, TypeScript
-
-**Frontend:** React, HTML, CSS, Tailwind CSS, shadcn/ui
-
-**Backend:** Node.js, Express.js
-
-**Databases:** MongoDB, MySQL
-
-**ORMs & ODMs:** Prisma, Mongoose
-
-**Tools & Infrastructure:** Git, Docker, Linux, Nginx
-
-
-
----
-
-### Open Source Contributions
-
-**[Slackwater Database](https://github.com/openwatersio/slackwater-database)** — OpenWaters
-
-Contributed to an open-source database of tide and current stations.
-
-- [**Fix TICON metadata matching by position (#258)**](https://github.com/openwatersio/slackwater-database/pull/258) — Fixed metadata mismatches affecting seven coastal monitoring stations by implementing position-based matching, adding importer tests, and correcting station names.
-- [**Preserve station names during TICON re-imports (#272)**](https://github.com/openwatersio/slackwater-database/pull/272) — Added curated name corrections and re-imported 53 station records, preserving proper spelling, punctuation, and capitalization.
-
-Both contributions were merged into the project's main branch.
-
-
-
----
-
-### Professional Experience
-
-Worked on company-owned projects involving full-stack development and backend systems.
-
-- **Inventory Management System:** Worked on a multi-tenant application using React, Node.js, Express, Prisma, and MySQL.
-- **Security Monitoring Platform (XDR):** Worked on log ingestion, event processing, backend integration, and dashboard development.
-
-*These projects are proprietary and cannot be shared publicly.*
-
----
-
-### Currently Learning
-
-- Data Structures & Algorithms
-- Backend architecture and system design
-- TypeScript and Node.js internals
-- Open-source development workflows
-
----
-
-### Connect
-
-- [GitHub](https://github.com/EkanshKaushik03)
-
-
+I'm looking forward to contributing more to open source and being part of something bigger than my own projects. To me, it's a way of giving back to a community that makes so much knowledge and technology freely accessible. It's also a way to put everything I've learned, including the effort and guidance my teachers have invested in me, to good use by building things that others can benefit from, freely and openly.
