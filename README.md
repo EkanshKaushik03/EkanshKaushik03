@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hey, I'm Ekansh Kaushik
 
-<!--
-**EkanshKaushik03/EkanshKaushik03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Open Source Contributor**
 
-Here are some ideas to get you started:
+I enjoy building software, understanding how systems work under the hood, and solving problems through clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on TypeScript, backend development, data structures and algorithms, and contributing to open-source projects.
+
+---
+
+### Tech Stack
+
+**Languages:** JavaScript, TypeScript
+
+**Frontend:** React, HTML, CSS, Tailwind CSS, shadcn/ui
+
+**Backend:** Node.js, Express.js
+
+**Databases:** MongoDB, MySQL
+
+**ORMs & ODMs:** Prisma, Mongoose
+
+**Tools & Infrastructure:** Git, Docker, Linux, Nginx
+
+
+
+---
+
+### Open Source Contributions
+
+**[Slackwater Database](https://github.com/openwatersio/slackwater-database)** — OpenWaters
+
+Contributed to an open-source database of tide and current stations.
+
+- [**Fix TICON metadata matching by position (#258)**](https://github.com/openwatersio/slackwater-database/pull/258) — Fixed metadata mismatches affecting seven coastal monitoring stations by implementing position-based matching, adding importer tests, and correcting station names.
+- [**Preserve station names during TICON re-imports (#272)**](https://github.com/openwatersio/slackwater-database/pull/272) — Added curated name corrections and re-imported 53 station records, preserving proper spelling, punctuation, and capitalization.
+
+Both contributions were merged into the project's main branch.
+
+
+
+---
+
+### Professional Experience
+
+Worked on company-owned projects involving full-stack development and backend systems.
+
+- **Inventory Management System:** Worked on a multi-tenant application using React, Node.js, Express, Prisma, and MySQL.
+- **Security Monitoring Platform (XDR):** Worked on log ingestion, event processing, backend integration, and dashboard development.
+
+*These projects are proprietary and cannot be shared publicly.*
+
+---
+
+### Currently Learning
+
+- Data Structures & Algorithms
+- Backend architecture and system design
+- TypeScript and Node.js internals
+- Open-source development workflows
+
+---
+
+### Connect
+
+- [GitHub](https://github.com/EkanshKaushik03)
+
+
