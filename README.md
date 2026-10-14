@@ -2,9 +2,7 @@
 
 **Full-Stack Developer | Open Source Contributor**
 
-I enjoy building software, understanding how systems work under the hood, and solving problems through clean, maintainable code.
-
-Currently focused on TypeScript, backend development, data structures and algorithms, and contributing to open-source projects.
+I enjoy exploring existing codebases, solving problems, and building reliable applications. Currently focused on backend development, open-source contributions, and understanding how software works under the hood.
 
 ---
 
